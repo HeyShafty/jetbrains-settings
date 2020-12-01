@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="nginx.conf" type="nginx" />
     </extensionMap>
