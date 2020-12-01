@@ -1,0 +1,8 @@
+<application>
+  <component name="EditorSettings">
+    <option name="TOOLTIPS_DELAY_MS" value="275" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
+</application>
