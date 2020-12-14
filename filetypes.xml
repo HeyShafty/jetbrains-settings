@@ -1,7 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
+      <mapping pattern="SearchPage.tsx" type="AUTO_DETECTED" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="nginx.conf" type="nginx" />
     </extensionMap>
